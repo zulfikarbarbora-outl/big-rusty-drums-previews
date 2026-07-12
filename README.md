@@ -13,7 +13,7 @@ lossless repo.
 
 ## Stats
 
-- **Files**: 2100 MP3 previews
+- **Files**: 4466 MP3 previews
 - **Bitrate**: 128 kbps CBR
 - **Sample rate**: 44.1 kHz (down-mixed to mono/stereo by ffmpeg)
 - **Source branch**: `main`
